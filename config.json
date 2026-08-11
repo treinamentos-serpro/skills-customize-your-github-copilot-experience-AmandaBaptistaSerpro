@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-io-persistence",
+      "title": "File I/O and Persistence",
+      "description": "Read and write text files in Python to save and load program data.",
+      "path": "assignments/file-io-persistence",
+      "dueDate": "2026-09-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
